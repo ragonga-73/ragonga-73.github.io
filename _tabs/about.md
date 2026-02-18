@@ -83,7 +83,7 @@ Bondo, Kenya | May 2021 – Aug 2021
 
 ## 📄 Resume
 
-<a href="/assets/files/RagongaFelixOdhiambo_CV.pdf" download style="display: inline-block; padding: 10px 20px; background-color: #2a9d8f; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">📥 Download Resume (PDF)</a>
+[⬇️ Download My Full Resume (PDF)](/assets/files/Felix_Ragonga_Resume.pdf?raw=true)
 
 ---
 *Always learning. Always securing.*
