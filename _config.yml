@@ -16,14 +16,14 @@ timezone: Africa/Nairobi
 
 title: Felix Ragonga Odhiambo # the main title
 
-tagline: Security Analyst | Turning vulnerabilities into strengths # it will display as the subtitle
+tagline: Aspiring Security Analyst | SOC & Threat Analysis Learner # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
- Security Analyst passionate about identifying vulnerabilities, strengthening systems, and building secure digital environments. Experienced in network security, threat analysis, and continuous learning through hands-on labs and real-world projects.
+ Security Analyst dedicated to identifying vulnerabilities, strengthening system defenses, and building secure digital environments through continuous learning and hands-on cybersecurity practice.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://ragonga-73.github.io"
 
 github:
   username: ragonga-73 # change to your GitHub username
@@ -35,11 +35,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ragonga Felix Odhiambo
-  email: efelixragonga@gmail.com # change to your email address
+  email: felixragonga@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/ragonga-73 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
