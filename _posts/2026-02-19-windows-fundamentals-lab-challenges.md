@@ -30,9 +30,6 @@ Get-WmiObject -Class win32_OperatingSystem | select Version,BuildNumber
 - `xfreerdp` (Linux RDP client)
 - PowerShell
 
-### Screenshot
-
-
 ### Key Lessons Learned
 - PowerShell cmdlets like `Get-WmiObject` provide detailed system information.
 - Understanding how to query OS details is fundamental for enumeration.
@@ -53,11 +50,6 @@ Locate a non-standard directory in the C drive and retrieve the flag.
 
 ### Tools Used
 - Command Prompt (CMD)
-
-### Screenshot
-https://images/dir-academy.png  
-https://images/flag-content.png  
-*(Flag: c8fe8d977d3a0c655ed7cf81e4d13c75)*
 
 ### Key Lessons Learned
 - The `dir` and `type` commands are essential for file system navigation and inspection.
@@ -83,9 +75,6 @@ Analyzed the output to find the user with `(F)` (Full Control) permission.
 - Command Prompt (CMD)
 - `icacls` utility
 
-### Screenshot
-
-
 ### Key Lessons Learned
 - `icacls` is a powerful tool for viewing and modifying NTFS permissions.
 - Understanding permission inheritance and explicit entries is critical for security assessments.
@@ -108,9 +97,6 @@ Identified `FoxitReaderUpdateService` as the non-standard service.
 
 ### Tools Used
 - PowerShell
-
-### Screenshot
-
 
 ### Key Lessons Learned
 - Non-Microsoft services can be potential attack vectors.
@@ -135,9 +121,6 @@ Located the alias for `ipconfig`, which was `ifconfig`.
 ### Tools Used
 - PowerShell
 
-### Screenshot
-
-
 ### Key Lessons Learned
 - PowerShell aliases provide shortcuts for legacy command-line users.
 - Understanding aliases helps in transitioning from CMD to PowerShell.
@@ -160,9 +143,6 @@ Observed the policy for `LocalMachine` was `Unrestricted`.
 
 ### Tools Used
 - PowerShell
-
-### Screenshot
-
 
 ### Key Lessons Learned
 - Execution policies control script execution and are a security feature.
@@ -188,9 +168,6 @@ Retrieved serial number: `00329-10280-00000-AA938`.
 - PowerShell
 - WMI
 
-### Screenshot
-
-
 ### Key Lessons Learned
 - WMI is a powerful management and enumeration interface.
 - Serial numbers and other system details can be retrieved remotely.
@@ -214,9 +191,6 @@ Located `bob.smith` and copied the SID.
 ### Tools Used
 - Command Prompt (CMD)
 - `wmic` tool
-
-### Screenshot
-
 
 ### Key Lessons Learned
 - SIDs uniquely identify users, groups, and computers in Windows.
@@ -242,9 +216,6 @@ Identified `NordVPN` as the disabled security application.
 - Command Prompt (CMD)
 - `reg` command
 
-### Screenshot
-
-
 ### Key Lessons Learned
 - Startup programs are stored in registry keys like `Run` and `RunOnce`.
 - Disabled or missing entries can indicate misconfigurations or removals.
@@ -268,9 +239,6 @@ Create a shared folder named **Company Data** with specific permissions for an H
 - Computer Management (`lusrmgr.msc`)
 - `icacls`
 
-### Screenshots
-
-
 ### Key Lessons Learned
 - Shared folders combine share permissions and NTFS permissions; the most restrictive applies.
 - Disabling inheritance prevents unintended access from parent folders.
@@ -291,9 +259,6 @@ Name the group that is present in the Company Data share permissions ACL by defa
 ### Tools Used
 - File Explorer
 
-### Screenshot
-
-
 ### Key Lessons Learned
 - By default, new shares grant `Everyone` Read access.
 - This should be removed or restricted to follow the principle of least privilege.
@@ -311,8 +276,6 @@ Name the tab that allows you to configure NTFS permissions.
 
 ### Tools Used
 - File Explorer
-
-### Screenshot
 
 
 ### Key Lessons Learned
@@ -338,9 +301,6 @@ Identified the service `wuauserv` (Windows Update).
 ### Tools Used
 - PowerShell
 
-### Screenshot
-
-
 ### Key Lessons Learned
 - Windows Update service is critical for system patching and security.
 - Service names often differ from display names.
@@ -364,8 +324,6 @@ Located `Jim` and copied the SID.
 ### Tools Used
 - Command Prompt (CMD)
 - `wmic`
-
-### Screenshot
 
 
 ### Key Lessons Learned
@@ -391,8 +349,6 @@ Located the `HR` group and copied the SID.
 ### Tools Used
 - Command Prompt (CMD)
 - `wmic`
-
-### Screenshot
 
 
 ### Key Lessons Learned
