@@ -58,6 +58,8 @@ Locate a non-standard directory in the C drive and retrieve the flag.
 - The `dir` and `type` commands are essential for file system navigation and inspection.
 - Non-standard directories often contain sensitive or challenge-related data.
 
+![Build Number Screenshot](/assets/images/windows3.png)
+
 ---
 
 ## Challenge 3: Identifying Full Control User on C:\Users
