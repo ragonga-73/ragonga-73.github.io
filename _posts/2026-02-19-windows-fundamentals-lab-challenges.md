@@ -8,7 +8,7 @@ tags: [windows, hackthebox, enumeration, powershell, wmic, icacls, ntfs, permiss
 # Windows Fundamentals Lab Challenges
 
 ## Overview
-This document highlights key lab challenges completed during the **Windows Fundamentals** module on Hack The Box. These exercises provided hands-on experience with Windows architecture, user and group management, file systems, permissions, services, processes, and security concepts.
+This post highlights key lab challenges completed during the **Windows Fundamentals** module on Hack The Box. These exercises provided hands-on experience with Windows architecture, user and group management, file systems, permissions, services, processes, and security concepts.
 
 ---
 
