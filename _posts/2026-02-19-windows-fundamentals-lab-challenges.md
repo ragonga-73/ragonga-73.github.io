@@ -34,7 +34,8 @@ Get-WmiObject -Class win32_OperatingSystem | select Version,BuildNumber
 - PowerShell cmdlets like `Get-WmiObject` provide detailed system information.
 - Understanding how to query OS details is fundamental for enumeration.
 
-image: /assets/images/windows1.png
+![Build Number Screenshot](/assets/images/windows1.png)
+
 
 ---
 
