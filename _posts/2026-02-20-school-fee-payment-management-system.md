@@ -5,7 +5,7 @@ tags: [web-development, firebase, firestore, payments, system-design]
 
 ---
 
-🔗 [View Source Code on GitHub](https: //github.com/ragonga-73/Fee-Payment-System.git)
+🔗 [View Source Code on GitHub](https://github.com/ragonga-73/Fee-Payment-System.git)
 
 ## Overview
 
