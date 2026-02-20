@@ -2,9 +2,11 @@
 title: "Fraud Case Management & Investigation Dashboard"
 date: 2026-02-20
 tags: [javascript, firestore, dashboard, workflow-design, system-architecture]
-https: //github.com/ragonga-73/Fraud_Report_App.git
----
 
+---
+## Project Repository
+
+🔗 [View Source Code on GitHub](https://github.com/ragonga-73/Fraud_Report_App.git)
 
 ## Overview
 
