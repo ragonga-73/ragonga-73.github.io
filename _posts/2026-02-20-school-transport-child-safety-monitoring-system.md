@@ -2,7 +2,7 @@
 title: "Online School Transport Child Safety Monitoring and Alert System"
 date: 2026-02-20
 tags: [android, firebase, firestore, mobile-development, system-design]
-https: //github.com/ragonga-73/ONLINE_SCHOOL_TRANSPORT_CHILD_SAFETY_MONITORING_AND_ALERT_SYSTEM.git
+🔗 [View Source Code on GitHub] (http://github.com/ragonga-73/ONLINE_SCHOOL_TRANSPORT_CHILD_SAFETY_MONITORING_AND_ALERT_SYSTEM.git)
 ---
 
 ## Overview
