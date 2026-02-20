@@ -4,8 +4,6 @@ date: 2026-02-20
 tags: [android, firebase, firestore, mobile-development, system-design]
 ---
 
-# Online School Transport Child Safety Monitoring and Alert System
-
 ## Overview
 
 This project is a mobile-based safety monitoring system designed to improve visibility and accountability in school transport operations. The goal was to ensure that parents receive real-time confirmation when their children are picked up and dropped off from school transport vehicles.
